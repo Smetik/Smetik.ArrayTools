@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>Smetik.ArrayTools</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Smetik</Authors>
+        <Company>Smetik</Company>
+        <Description>Библиотека для работы с массивами: сортировка, фильтрация, поиск и получение элемента по индексу.</Description>
+        <PackageTags>arrays;sorting;filtering;search</PackageTags>
+
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+</Project>
